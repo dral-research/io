@@ -1,0 +1,138 @@
+[
+  {
+    "id": 8,
+    "date": "2026-04-25",
+    "category": "Event",
+    "title": "Meeting with Karma",
+    "content": ".",
+    "author": "DrAL Lab",
+    "eventDate": "2026-04-24",
+    "eventTime": "15:00",
+    "building": "ZACH",
+    "room": "252",
+    "photoUrl": null,
+    "link": null,
+    "mapsUrl": null,
+    "address": null,
+    "photos": []
+  },
+  {
+    "id": 7,
+    "date": "2026-04-15",
+    "category": "Award",
+    "title": "🥳 Celebrate with our lab faculty and student members at the TAMU Landscape Architecture & Urban Planning Scholarship and Awards Banquet.",
+    "content": "🥳 Celebrate with our lab faculty and student members at the TAMU Landscape Architecture & Urban Planning Scholarship and Awards Banquet.\n\nCongratulations to Dr. Wei Li for receiving the Outstanding Mentor Award, to Wenjin (Summer) Wang for receiving the Louis LeBlanc Scholarship, and to Keyla Sanchez for receiving Gene Schrickel Jr. '50 Endowed Scholarship in Landscape Architecture. We are proud to celebrate these well-deserved recognitions and the hard work behind them.",
+    "author": "DrAL Lab",
+    "eventDate": "2026-04-15",
+    "eventTime": null,
+    "building": null,
+    "room": null,
+    "photoUrl": null,
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7449456469533667329/",
+    "mapsUrl": null,
+    "address": null,
+    "photos": [
+      "https://drive.google.com/thumbnail?id=1_4fjlrkPr1mVAQcdMXrB4l0AV1MQ27Qo&sz=w1200",
+      "https://drive.google.com/thumbnail?id=1NFwp0TOVu9zL6hqC_EwcaV7HvsZoRllz&sz=w1200"
+    ]
+  },
+  {
+    "id": 6,
+    "date": "2026-03-28",
+    "category": "Event",
+    "title": "Community Engagement",
+    "content": "🌱 Our team had a great time at the 5th Annual 3rd Ward on Tap Festival, organized by Friends of Columbia Tap. We are grateful to be a part of this event.\n\nIt was a meaningful community engagement opportunity to connect with Houston residents and share our ongoing green street research. Many thanks to our lab members John Monigold, Keyla Sanchez, and Min Pan for their contributions and support at the event.",
+    "author": "DrAL Lab",
+    "eventDate": "2026-03-28",
+    "eventTime": null,
+    "building": null,
+    "room": null,
+    "photoUrl": null,
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7448369302312763392/",
+    "mapsUrl": null,
+    "address": null,
+    "photos": [
+      "https://drive.google.com/thumbnail?id=1KjKliLC9mvxbNb2b3anPUbxrNk6oIKUe&sz=w1200"
+    ]
+  },
+  {
+    "id": 5,
+    "date": "2026-04-17",
+    "category": "Event",
+    "title": "Lab Guest Talk, April 2026 (Dr. Lisa Lim from KAIST)",
+    "content": "Dear DrAL lab members,\n\nOur lab monthly meeting for April will be on April 17, noon-1:00 PM. We are pleased to welcome a guest speaker, Dr. Lisa Lim from Korea Advanced Institute of Science and Technology (KAIST).\n\nWe had a great time at our lab's April gathering with our wonderful guest, Dr. Lim. She presented \"Improving Health through Design of Built Environments\" covering four major research areas: safe communities, healthy indoor environments, healthy aging, and vulnerable populations and mobility.",
+    "author": "DrAL Lab",
+    "eventDate": null,
+    "eventTime": null,
+    "building": null,
+    "room": null,
+    "photoUrl": null,
+    "link": null,
+    "mapsUrl": null,
+    "address": null,
+    "photos": [
+      "https://drive.google.com/thumbnail?id=1DuN5-QL4BknCSYP7_JVSyhvnNr5PNH55&sz=w1200",
+      "https://drive.google.com/thumbnail?id=1BrM70csD2KI-ZhMbqwugIFV6q-H2vipz&sz=w1200"
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2026-04-03",
+    "category": "Award",
+    "title": "🥳 Good Friday with good news from our lab members. We are proud to spotlight two outstanding student members, Shuqi Nie and Sungju Jung.",
+    "content": "Shuqi Nie (Committee Chair: Xuemei Zhu) recently received the Doctoral Research Excellence Assistantship (DREA) 2026 from the Texas A&M University Graduate and Professional School.\n\nWe also celebrate Sungju Jung (Committee Chair: Sungmin Lee), who received the DREA as part of his admission in 2024.\n\n🎊 Congratulations to both Shuqi and Sungju on these achievements.",
+    "author": "DrAL Lab",
+    "eventDate": null,
+    "eventTime": null,
+    "building": null,
+    "room": null,
+    "photoUrl": null,
+    "link": "https://www.linkedin.com/posts/design-research-for-active-living-dral-lab-918614268_good-friday-with-good-news-from-our-lab-activity-7445825032590757888-D8hR",
+    "mapsUrl": null,
+    "address": null,
+    "photos": [
+      "https://drive.google.com/thumbnail?id=1YNCJW9OhGZiIARVhXe3CDzlFx-MvPjac&sz=w1200",
+      "https://drive.google.com/thumbnail?id=1apCiCeeU4uMxMyoac63GkAfjxIJP5W8w&sz=w1200"
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2026-03-27",
+    "category": "Event",
+    "title": "Lab Guest Talk (Dr. Greta Jianjia Cheng from the UMich)",
+    "content": "Topic: Constructing Life Course Neighborhood Exposures From Self-Reported Residential Histories: Assessing Data Quality in a Study of Cognitive Health Among African Americans\nDate & Time: noon-1PM, March 27 (Friday)",
+    "author": "DrAL Lab",
+    "eventDate": null,
+    "eventTime": null,
+    "building": null,
+    "room": null,
+    "photoUrl": null,
+    "link": "https://www.linkedin.com/posts/design-research-for-active-living-dral-lab-918614268_we-had-a-great-time-at-todays-lab-monthly-activity-7443417952902799360-umgJ",
+    "mapsUrl": null,
+    "address": null,
+    "photos": [
+      "https://drive.google.com/thumbnail?id=15ChFTB9F57EdYiBOogzunhb9tjQBVqZT&sz=w1200",
+      "https://drive.google.com/thumbnail?id=1ZCA9p9WBJi7R5K6fDQkgC6OGyjkP80nG&sz=w1200"
+    ]
+  },
+  {
+    "id": 1,
+    "date": "2026-03-21",
+    "category": "Conference",
+    "title": "Proud to spotlight our lab members at CELA (Council of Educators in Landscape Architecture) 2026.",
+    "content": "This year, our lab shared three presentations highlighting important work on how built and natural environments shape loneliness, physical activity, and well-being:\n1️⃣ Reducing Student Loneliness through Campus Design by Li Deng\n2️⃣ Causal Evidence on Nature-Based Interventions and Physical Activity by Jiwoon Jeong\n3️⃣ Spatial Determinants of Child Loneliness by Jiwoon Jeong\n\nLi and Jiwoon are both on the job market, and it was especially exciting to see them share their thoughtful and timely research with the CELA community.",
+    "author": "DrAL Lab",
+    "eventDate": "2026-04-24",
+    "eventTime": "15:00",
+    "building": "ZACH",
+    "room": "252",
+    "photoUrl": null,
+    "link": "https://www.linkedin.com/posts/design-research-for-active-living-dral-lab-918614268_cela-landscapearchitecture-environment-activity-7444737834533580801-Vl2X",
+    "mapsUrl": null,
+    "address": null,
+    "photos": [
+      "https://drive.google.com/thumbnail?id=1xOJVj6_TNjPjRY8nbhAGQJIxRCdjNnVa&sz=w1200",
+      "https://drive.google.com/thumbnail?id=1L1XXKULAl1cKiJLn3yOLynQIsv5UklC1&sz=w1200"
+    ]
+  }
+]
