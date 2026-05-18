@@ -1,0 +1,127 @@
+{
+  "about": {
+    "tagline": "Designing Healthier Communities Through Evidence-Based Research",
+    "description": "The Design Research for Active Living (DrAL) Lab at Texas A&M University investigates how the built environment shapes physical activity, health, and well-being across diverse communities. Founded by Dr. Chanam Lee & Dr. Xuemei Zhu, our interdisciplinary team bridges landscape architecture, urban planning, public health, and data science.",
+    "mission": "Our mission is to generate rigorous, translatable evidence that informs policies and designs promoting active living — with a particular focus on health equity, aging populations, and underserved communities.",
+    "institution": "Texas A&M University",
+    "contact": "chanam@tamu.edu",
+    "linkedin": "https://www.linkedin.com/in/design-research-for-active-living-dral-lab-918614268/",
+    "keywords": [],
+    "pillars": [
+      {
+        "icon": "🌆",
+        "title": "Built Environment & Active Living",
+        "text": "How neighborhood design, street networks, parks, and land use shape physical activity across diverse populations"
+      },
+      {
+        "icon": "💚",
+        "title": "Health Equity & Vulnerable Populations",
+        "text": "Addressing disparities in active living opportunities for older adults, low-income communities, and underserved neighborhoods"
+      },
+      {
+        "icon": "📊",
+        "title": "Evidence-Based Design",
+        "text": "Translating empirical research into actionable design guidelines, planning policy, and community interventions"
+      },
+      {
+        "icon": "🤝",
+        "title": "Community-Engaged Research",
+        "text": "Partnering with local governments, planners, and residents to co-produce research that addresses real-world challenges"
+      },
+      {
+        "icon": "🚶",
+        "title": "Active Aging & Mobility",
+        "text": "Designing age-friendly environments that support independent mobility, reduce fall risks, and promote physical and social engagement among older adults"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We want to ensure we are putting the park into the area without displacing people or having it be unequally available.",
+        "attr": "Dr. Chanam Lee",
+        "source": "Texas Trees Foundation, 2021"
+      },
+      {
+        "text": "We are hoping this new longitudinal, case-comparison study will allow us to better understand what impact Mueller has on its residents' physical activity and health.",
+        "attr": "Dr. Xuemei Zhu",
+        "source": "TAMU Vital Record"
+      },
+      {
+        "text": "Healthy aging is the development and maintenance of optimal physical, mental and social well-being.",
+        "attr": "Dr. Marcia Ory",
+        "source": "TAMU Vital Record"
+      },
+      {
+        "text": "We are not merely designing buildings; we are reimagining the future of health through architecture.",
+        "attr": "Dr. Zhipeng Lu",
+        "source": "Texas A&M University College of Architecture"
+      },
+      {
+        "text": "Summer isn't just a break from school — it's a pivotal time that can shape youth health habits.",
+        "attr": "Dr. Tyler Prochnow",
+        "source": "Texas A&M Stories, 2025"
+      }
+    ]
+  },
+  "aboutPhotos": [
+    "https://drive.google.com/thumbnail?id=1k4H7NL1ybRVIBEFzT6EgiF1GlP1ym9h5&sz=w1200",
+    "https://drive.google.com/thumbnail?id=1788cCY6iNxrL2DPJd_HKZu-Nm077rIKJ&sz=w1200",
+    "https://drive.google.com/thumbnail?id=1kN1t5hTd62itYuRp2KuaDp8_MptOSoVt&sz=w1200"
+  ],
+  "footer": {
+    "line1": "DrAL Lab · Design Research for Active Living",
+    "line2": "",
+    "email": "",
+    "linkedin": ""
+  },
+  "theme": {
+    "primary": "#2d4a3e",
+    "accent": "#b8873f",
+    "bg": "#f5f2ec"
+  },
+  "typography": {
+    "headingFontId": "dm-sans",
+    "bodyFontId": "dm-sans",
+    "heroHead": { "size": "3.40", "weight": "600" },
+    "tagline": { "size": "2.00", "color": "#2d4a3e", "weight": "600" },
+    "pageTitle": { "size": "2.10", "color": "#2d4a3e", "weight": "600" },
+    "sectionHead": { "size": "1.40", "color": "#2d4a3e", "weight": "600" },
+    "itemTitle": { "size": "1.35", "weight": "500" },
+    "body": { "size": "1.00" },
+    "pageSub": { "size": "0.90", "color": "#6b7280" },
+    "navBrand": { "size": "1.45" },
+    "calMonth": { "size": "1.50", "color": "#2d4a3e", "weight": "600" },
+    "newsletterHead": { "size": "1.50", "weight": "600" },
+    "contactHead": { "size": "1.50", "weight": "600" }
+  },
+  "heroBgSettings": {
+    "mode": "color",
+    "color": "#2d4a3e",
+    "textColor": "#ffffff",
+    "heroPhotos": [],
+    "heroPhotoUrl": ""
+  },
+  "heroBgPresets": [
+    { "label": "Forest Path", "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1600&q=80" },
+    { "label": "City Walk", "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1600&q=80" },
+    { "label": "Park & People", "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1600&q=80" },
+    { "label": "Urban Green", "url": "https://images.unsplash.com/photo-1516912481808-3406841bd33c?w=1600&q=80" },
+    { "label": "Running Trail", "url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1600&q=80" },
+    { "label": "Campus Walk", "url": "https://images.unsplash.com/photo-1562774053-701939374585?w=1600&q=80" }
+  ],
+  "memberRoles": ["Faculty", "Post Doc", "PhD Student", "Master Student", "Undergraduate Student", "Researcher", "Visiting Scholar"],
+  "projectTags": ["Health", "Mobility", "Equity", "Urban Design", "Aging"],
+  "recTypes": ["PhD Position", "Postdoc", "RA", "Undergraduate"],
+  "newsCategories": ["Publication", "Award", "Event", "Announcement", "Conference", "Other"],
+  "departments": ["LAUP", "ARCH", "HLTH", "PHLT", "Other"],
+  "calEventTypes": [
+    { "id": "meeting", "label": "Lab Meeting", "color": "#16a34a", "bg": "#dcfce7", "text": "#166534" },
+    { "id": "deadline", "label": "Recruiting", "color": "#991b1b", "bg": "#fee2e2", "text": "#991b1b" },
+    { "id": "seminar", "label": "Seminar", "color": "#92400e", "bg": "#fef3c7", "text": "#92400e" },
+    { "id": "event", "label": "Event", "color": "#1e40af", "bg": "#dbeafe", "text": "#1e40af" },
+    { "id": "conference", "label": "Conference", "color": "#7c3aed", "bg": "#ebe1fc", "text": "#7c3aed" }
+  ],
+  "scholarUrl": "https://scholar.google.com/citations?user=B-H2Wq0AAAAJ&hl=en&oi=ao",
+  "hiddenTabs": ["collab", "analytics"],
+  "heroVisible": false,
+  "pageTitles": {}
+}
